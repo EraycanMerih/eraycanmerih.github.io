@@ -1,1 +1,1 @@
-google.com, pub-{{YOUR_ADMOB_PUBLISHER_NUMBER}}, DIRECT, f08c47fec0942fa0
+google.com, pub-7581658495427686, DIRECT, f08c47fec0942fa0
